@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profilepic"
+  avatar           : "mainpicture.png"
   name             : "Aarón Castillo Jiménez"
   pronouns         : # example: "she/her"  
   bio              : "Systems biologist working in developmental biology and cell differentiation."
