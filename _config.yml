@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Aarón Castillo Jiménez PhD / Systems biologist"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Aarón Castillo Jiménez"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://aaroncastillojimenez.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,10 +26,10 @@ author:
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Mexico City"
+  employer         : "UNAM"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "aaron.castillo.j@gmail.com" 
 
   # Academic websites
   academia         : # URL
