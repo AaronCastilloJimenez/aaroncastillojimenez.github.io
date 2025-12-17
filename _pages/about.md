@@ -17,13 +17,12 @@ Use the sidebar menu to navigate my work.
 
 ### My Research Interests
 
-* **Mathematical modeling** of biological systems.
-* **Gene regulation** and **signaling networks**.
-* **Developmental biology**.
-* **Pattern formation**.
-* **Cell differentiation**.
-* **Data science**.
-* **Microscopy image analysis**
+* **Mathematical modeling of biological systems**.
+* **Gene regulatory and signaling networks**.
+* **Developmental biology and pattern formation in plants and animals**.
+* **Cell differentiation and reprogramming**.
+* **Omic data analysis**.
+* **Image analysis**
 * **Phenotypic plasticity**
 ---
 
