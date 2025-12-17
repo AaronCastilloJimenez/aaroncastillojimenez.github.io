@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Aarón Castillo Jiménez PhD | Systems biologist"
-excerpt: "Página de inicio del Dr. Aarón Castillo Jiménez, Investigador en Biología de Sistemas."
+excerpt: "Academic website of Dr. Aarón Castillo Jiménez, Researcher in Systems biology."
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,20 +10,18 @@ redirect_from:
 
 # Welcome to my Academic Website!
 
-
 I am Aarón Castillo Jiménez, a systems biologist focused on **modeling biological processes at the cellular and tissue level**, currently working on **cell differentiation and pattern formation in plants and animals**. Currently, I conduct research at the Institute of Ecology at UNAM, Mexico City.
-
-Use the sidebar menu to navigate my work.
 
 ### My Research Interests
 
-* **Mathematical modeling of biological systems**.
-* **Gene regulatory and signaling networks**.
+* **Multilevel modeling of biological systems**.
+* **Gene regulatory network modeling**.
 * **Developmental biology and pattern formation in plants and animals**.
 * **Cell differentiation and reprogramming**.
-* **Omic data analysis**.
+* **Omic data science**.
 * **Image analysis**
 * **Phenotypic plasticity**
+
 ---
 
 [Link to my complete CV](/cv/)
