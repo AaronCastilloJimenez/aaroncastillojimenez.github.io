@@ -11,20 +11,21 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Biomedical Science, National Autonomous University of Mexico.
-* B.S. in Biology, National Autonomous University of Mexico.
+* Ph.D in Biomedical Science, National Autonomous University of Mexico, México.
+* B.Sc. in Biology, National Autonomous University of Mexico, México
+* B.sc. in Control engineering, National Polytechnic Institute, México
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2008-2010: CONACYT National Research Assistant
+  * Molecular Evolution Laboratory, Institute of Ecology, National Autonomous University of México, Mexico City.
+  * Metagenomics analysis and bioinformatics
+  * Supervisor: Dra. Valeria Souza Saldivar 
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2012-214: Research Assistant
+  * Laboratory of Molecular Genetics, Development, Evolution and Epigenetics of Plants, Institute of Ecology, National Autonomous University      of México, Mexico City.
+  * Bioinformatics analysis and mathematical modeling of cell cycle gene network
+  * Supervisor: Dra. María Elena Álvarez-Buylla Roces
 
 * Summer 2015: Research Assistant
   * GitHub University
