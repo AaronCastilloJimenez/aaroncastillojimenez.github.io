@@ -9,17 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
----
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
-
-{% include base_path %}
-
 # Education
 * **Ph.D. in Biomedical Sciences**, National Autonomous University of Mexico (UNAM).
 * **B.Sc. in Biology**, National Autonomous University of Mexico (UNAM).
