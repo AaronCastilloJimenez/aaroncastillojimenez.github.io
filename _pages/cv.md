@@ -9,59 +9,74 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Biomedical Science, National Autonomous University of Mexico, México.
-* B.Sc. in Biology, National Autonomous University of Mexico, México
-* B.sc. in Control engineering, National Polytechnic Institute, México
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
 
-Work experience
-======
-* 2008-2010: CONACYT National Research Assistant
-  * Molecular Evolution Laboratory, Institute of Ecology, National Autonomous University of México, Mexico City.
-  * Metagenomics analysis and bioinformatics
-  * Supervisor: Dra. Valeria Souza Saldivar 
+{% include base_path %}
 
-* 2012-2014: Research Assistant
-  * Laboratory of Molecular Genetics, Development, Evolution and Epigenetics of Plants, Institute of Ecology, National Autonomous University      of México, Mexico City.
-  * Bioinformatics analysis and mathematical modeling of cell cycle gene network
-  * Supervisor: Dra. María Elena Álvarez-Buylla Roces
+# Education
+* **Ph.D. in Biomedical Sciences**, National Autonomous University of Mexico (UNAM).
+* **B.Sc. in Biology**, National Autonomous University of Mexico (UNAM).
+* **B.Sc. in Control Engineering**, National Polytechnic Institute (IPN).
 
-* 2021-2024: Lecturer
-  * Autonomous University of Mexico City (UACM)
-  * Biostatistics, Biochemistry, Molecular biology undergrad courses
+---
 
-  
-Skills
-======
-* Computational skills
-  LATEX, Adobe Illustrator, Adobe Photoshop, Python, R, UNIX, C, C++, Julia, Matlab, JAVA, Wolfram Mathematica
+# Work Experience
+### **Lecturer** | 2021 – 2024
+*Autonomous University of Mexico City (UACM)*
+* Taught undergraduate courses: Biostatistics, Biochemistry, and Molecular Biology.
+* Developed pedagogical materials for data analysis in biological contexts.
 
-* Molecular Biology skills
-  Plasmid preparation, ligation, transformation, Genomic DNA extraction, total RNA extraction, RT-PCR, PCR, site-directed mutagenesis, next-    generation sequencing Protein skils Protein purification, FPLC, HPLC (affinity, gel filtration, ion exchange and reverse phase),             preparative column chromatography, membrane filtration, dialysis, SDS-PAGE, Western blot, bacterial protein expression, protein         refolding,  mammalian cell protein expression and ELISA.
-* Skill 3
+### **Research Assistant** | 2012 – 2014
+*Laboratory of Molecular Genetics, Institute of Ecology, UNAM*
+* **Focus:** Bioinformatics analysis and mathematical modeling of cell cycle gene regulatory networks.
+* **Supervisor:** Dr. Elena Álvarez-Buylla Roces.
 
-Certifications
-======
+### **National Research Assistant (CONACYT)** | 2008 – 2010
+*Molecular Evolution Laboratory, Institute of Ecology, UNAM*
+* **Focus:** Metagenomics analysis and bioinformatics pipeline development.
+* **Supervisor:** Dr. Valeria Souza Saldivar.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+---
+
+# Skills
+
+### **Computational & Mathematical Modeling**
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | Python, R, Julia, C, C++, Java, Unix/Bash |
+| **Modeling** | MATLAB, Wolfram Mathematica, Control Theory |
+| **Design/Docs** | LaTeX, Adobe Illustrator, Adobe Photoshop |
+
+### **Molecular Biology & Biochemistry**
+* **Genomics:** DNA/RNA extraction, RT-PCR, site-directed mutagenesis, Next-Generation Sequencing (NGS).
+* **Protein Engineering:** Bacterial and mammalian protein expression, protein refolding, ELISA.
+* **Chromatography & Purification:** FPLC, HPLC (Affinity, Gel Filtration, Ion Exchange, Reverse Phase), SDS-PAGE, Western Blot.
+* **Cell Culture:** Transformation, membrane filtration, and dialysis.
+
+---
+
+# Publications
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
+# Talks & Seminars
+<ul>{% for post in site.talks reversed %}
+  {% include archive-single-talk-cv.html %}
+{% endfor %}</ul>
+
+# Teaching Experience
+<ul>{% for post in site.teaching reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
+# Service and Leadership
+* **Scientific Collaboration:** Active member of multiple international research networks and computational biology communities.
+* **Technical Community:** Participant in various collaborative platforms for systems biology and open-source software development.
