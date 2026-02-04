@@ -22,24 +22,27 @@ Work experience
   * Metagenomics analysis and bioinformatics
   * Supervisor: Dra. Valeria Souza Saldivar 
 
-* 2012-214: Research Assistant
+* 2012-2014: Research Assistant
   * Laboratory of Molecular Genetics, Development, Evolution and Epigenetics of Plants, Institute of Ecology, National Autonomous University      of México, Mexico City.
   * Bioinformatics analysis and mathematical modeling of cell cycle gene network
   * Supervisor: Dra. María Elena Álvarez-Buylla Roces
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021-2024: Lecturer
+  * Autonomous University of Mexico City (UACM)
+  * Biostatistics, Biochemistry, Molecular biology undergrad courses
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+* Computational skills
+  LATEX, Adobe Illustrator, Adobe Photoshop, Python, R, UNIX, C, C++, Julia, Matlab, JAVA, Wolfram Mathematica
+
+* Molecular Biology skills
+  Plasmid preparation, ligation, transformation, Genomic DNA extraction, total RNA extraction, RT-PCR, PCR, site-directed mutagenesis, next-    generation sequencing Protein skils Protein purification, FPLC, HPLC (affinity, gel filtration, ion exchange and reverse phase),             preparative column chromatography, membrane filtration, dialysis, SDS-PAGE, Western blot, bacterial protein expression, protein         refolding,  mammalian cell protein expression and ELISA.
 * Skill 3
+
+Certifications
+======
 
 Publications
 ======
