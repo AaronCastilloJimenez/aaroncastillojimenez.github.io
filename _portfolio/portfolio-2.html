@@ -1,7 +1,24 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+title: "Automated 3D Cell Segmentation for Root Meristem Analysis"
+excerpt: "A deep learning-based pipeline for segmenting Arabidopsis root cells using three fluorescent reporters and CNN architectures (PlantSeg & Cellpose)."
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This project, currently under development, provides a specialized workflow for the automated analysis of confocal microscopy stacks in `.nd2` format. The goal is to characterize the cellular geometry and cell cycle dynamics of the *Arabidopsis thaliana* apical meristem.
+
+### Key Features:
+* **Multi-Channel Analysis:** Processing of three distinct fluorescent markers:
+    * **Cell Wall Marker:** Used for defining cell boundaries and geometry.
+    * **Cell Cycle Reporters:** Two markers used to visualize nuclei at different stages of the cell cycle.
+* **Deep Learning Integration:** Implementation of Convolutional Neural Networks (CNNs) for robust 3D segmentation:
+    * **PlantSeg:** Optimized for cell wall-based tissue segmentation.
+    * **Cellpose:** Utilized for high-precision nuclear segmentation and tracking.
+* **Format Compatibility:** Automated handling and pre-processing of raw Nikon `.nd2` files.
+
+### Technical Stack:
+* **Algorithms:** PlantSeg, Cellpose (Convolutional Neural Networks).
+* **Tools:** Python, Napari (for proofreading and manual correction), Fiji/ImageJ.
+* **Application:** High-throughput characterization of cell geometry and proliferation patterns in the root apical meristem.
+
+[View Code on GitHub](https://github.com/AaronCastilloJimenez/meta-GRN-Root-Epidermis) 
+*(Nota: Asegúrate de que el link de arriba sea el correcto para este código específico)*
