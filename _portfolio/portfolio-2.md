@@ -46,4 +46,4 @@ We leverage state-of-the-art **Convolutional Neural Networks (CNNs)** to overcom
 | **Visualization** | Napari, Fiji/ImageJ |
 | **Bioinformatics** | ND2SDK, NumPy, SciPy |
 
-[View Project Documentation on GitHub](https://github.com/AaronCastilloJimenez/meta-GRN-Root-Epidermis)
+[View Project Documentation on GitHub](https://github.com/AaronCastilloJimenez/Root-Apical-Meristem-Dynamical-Characterization)
